@@ -1,2 +1,7 @@
 @import 'node_modules/bootstrap/scss/bootstrap.scss';
 @import './now-ui-kit.scss';
+
+.active{
+    background-color: rgba(255, 255, 255, 0.2);
+    border-radius: 0.1875rem;
+}
